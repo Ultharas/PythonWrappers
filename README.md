@@ -1,2 +1,2 @@
 # PythonWrappers
-Library wrappers for work with database, requests, excel etc.
+Library wrappers to work with database, requests, excel etc.
