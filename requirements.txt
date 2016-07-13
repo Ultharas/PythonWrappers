@@ -1,0 +1,8 @@
+phpserialize
+pytils
+sqlalchemy
+openpyxl
+requests
+lxml
+randua
+HTMLParser
