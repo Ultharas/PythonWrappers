@@ -57,5 +57,3 @@ def db_connect(db_name, login='root', passw='', host='localhost'):
 
 def get_table(name):
     return Table(name, meta, autoload_with=e)
-
-e, meta, conn = db_connect(config['db_name'], config['login'], config['passw'], config['host'])
